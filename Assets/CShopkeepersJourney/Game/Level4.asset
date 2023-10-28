@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89501daa261d1bf469470efeedeead0e, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  levelName: Level 4
+  timeLimit: 120
+  scorePerItem: 10
+  learningItems:
+  - {fileID: 11400000, guid: 404e8d09fb7c7aa4f849ee217b9a09bc, type: 2}
+  - {fileID: 11400000, guid: ea8bacaa0f4e7c6488b60ab2fe41b288, type: 2}
+  - {fileID: 11400000, guid: ed182034e0325474a93d8e901b3bb008, type: 2}
+  - {fileID: 11400000, guid: e891497bc994b824fa2b8c200cc2dec7, type: 2}
+  - {fileID: 11400000, guid: 6eb392a3c5704be44a79be144c56a9af, type: 2}
+  - {fileID: 11400000, guid: 0cd82a84e1f17404c82c3084aca5a9b4, type: 2}
+  - {fileID: 11400000, guid: bce574b62f280524b9f94e33796f91a4, type: 2}
+  - {fileID: 11400000, guid: c56972cff58ca3149a5fd58945ed7268, type: 2}

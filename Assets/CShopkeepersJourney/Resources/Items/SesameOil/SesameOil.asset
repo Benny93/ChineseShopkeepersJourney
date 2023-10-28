@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6dcc077ddcadb247b5e4af6e22f09d2, type: 3}
+  m_Name: SesameOil
+  m_EditorClassIdentifier: 
+  englishName: SesameOil
+  chineseTranslationInPinyin: "Xi\u0101ngy\xF3u"
+  writtenChinese: "\u9999\u6CB9"
+  audioFile: {fileID: 8300000, guid: 79ce47e7e61a7b14bbb792f13a68da3a, type: 3}

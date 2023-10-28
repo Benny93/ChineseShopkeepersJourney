@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6dcc077ddcadb247b5e4af6e22f09d2, type: 3}
+  m_Name: Beer
+  m_EditorClassIdentifier: 
+  englishName: Beer
+  chineseTranslationInPinyin: "P\xEDji\u01D4"
+  writtenChinese: "\u5564\u9152"
+  audioFile: {fileID: 8300000, guid: 88270b6d3b3471a489e221058873773b, type: 3}
