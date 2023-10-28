@@ -16,9 +16,32 @@ Find the matching item on you counter and simply throw it at the customer.
 The customer will catch it an you receive points.
 The faster you can serve the customers the more points you get.
 
-## Source Code
+## Requirements
+
+- Unity 2023.3.0 or newer
+
+## Getting started
 
 The projects code and assets are located in `./Assets/CShopkeepersJourney`.
+
+### How to add new vocabulary
+
+Navigate into the  `./Assets/CShopkeepersJourney/Resouces/Items` directory.
+Open the context menu by right clicking the assets browser and click "Create > LearningItem".
+A new learning item appears. 
+Give it an fitting name and fill in the properties of the learn item:
+- The english name
+- The translation in pinyin
+- The translation in chinese characters
+- Audio clip 
+
+### Create new Levels
+
+- Go to the level directory `./Assets/CShopkeepersJourney/Game`.
+- Copy and existing level or right click to open the context menu and under create select "LevelSettings".
+- Change the level parameters to your liking and add the required learnitems to the level.
+- In the Game Scene open the XROrigin tree and find the main UI element. Find the level selection panel and add your level to the list of levels of the component.
+
 
 ## Credits:
 
