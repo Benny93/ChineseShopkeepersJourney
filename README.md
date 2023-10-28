@@ -4,7 +4,8 @@ This project was created for 2023 PICO Dev Jam
 
 Memorize the mandarin names of countless items lining your shelves and race against the clock to fulfill each customer's order. The faster you serve, the higher your score climbs. Learn by doing.
 
-![Example Image1](./Documentation/Images/example1_small.jpg)
+[![Youtube video](./Documentation/Images/example1_small.jpg)](https://www.youtube.com/watch?v=TKyPnJ57tnI&ab_channel=Kenny32VR)
+
 ![Example Image1](./Documentation/Images/example4_small.jpg)
 
 ## How To Play
@@ -15,7 +16,9 @@ Find the matching item on you counter and simply throw it at the customer.
 The customer will catch it an you receive points.
 The faster you can serve the customers the more points you get.
 
+## Source Code
 
+The projects code and assets are located in `./Assets/CShopkeepersJourney`.
 
 ## Credits:
 
